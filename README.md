@@ -1,1 +1,1 @@
-# numpy-exercises
+# AI Mafia - Machine Learning Projects
